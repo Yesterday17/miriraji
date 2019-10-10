@@ -3,7 +3,7 @@
     <div class="ml-about-section">
       <h2>简介</h2>
       <p>
-        米粒垃圾工具箱是供个人使用的工具集合。该工具箱可以离线使用，不会从向线上发送任何信息。
+        米粒垃圾工具箱是供个人使用的工具集合，可以离线使用。
       </p>
     </div>
     <div class="ml-about-section">
@@ -17,6 +17,12 @@
         >
         </contributor>
       </div>
+    </div>
+    <div class="ml-about-section">
+      <h2>更新日志</h2>
+      <p>
+        v1.0.0 基本功能的完成，包括生成字幕，替换分号等。
+      </p>
     </div>
   </div>
 </template>
