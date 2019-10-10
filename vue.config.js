@@ -12,18 +12,6 @@ module.exports = {
         }
       ]
     },
-    plugins: [
-      new MonacoWebpackPlugin({
-        languages: ["markdown"],
-        features: [
-          "format",
-          "fontZoom",
-          "multicursor",
-          "wordHighlighter",
-          "wordOperations",
-          "wordPartOperations"
-        ]
-      })
-    ]
+    plugins: [new MonacoWebpackPlugin()]
   }
 };
