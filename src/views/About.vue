@@ -21,6 +21,8 @@
     <div class="ml-about-section">
       <h2>更新日志</h2>
       <p>
+        v1.0.1 修正 PWA 中的应用名称，离线保存贡献者头像。
+        <br />
         v1.0.0 基本功能的完成，包括生成字幕，替换分号等。
       </p>
     </div>
@@ -46,7 +48,7 @@ export default {
       contributors: [
         {
           name: "某昨P",
-          icon: "https://avatars3.githubusercontent.com/u/8667822?v=4"
+          icon: "img/avatars/yesterday17.jpeg"
         }
       ]
     };
